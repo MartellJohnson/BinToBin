@@ -107,4 +107,4 @@ Refer to the included facility map:
 
 ## 🗂 Versioning
 - `v1.0` Initial rollout — Staging Bins and Roles Defined  
-- `v1.1` Final Goods functionality integrated (June 2025)  
+- `v1.1` Final Goods functionality integrated (June 2024)  
