@@ -1,5 +1,8 @@
 
 # 📦 Bin-to-Bin Inventory Management Rollout  
+
+<img width="736" height="439" alt="Screenshot 2025-07-22 113326" src="https://github.com/user-attachments/assets/6cd63ecf-b895-4939-86a6-e86973b40c9a" />
+
 **Project Name:** Inter-Building Bin-to-Bin Control System  
 **Author:** Martell Johnson  
 **Site Locations:**  
@@ -36,6 +39,10 @@ Refer to the included facility map:
 ---
 
 ## 🧪 Process Flow
+
+<img width="639" height="776" alt="image" src="https://github.com/user-attachments/assets/aadc8804-77aa-427c-aa49-57f65837ddbc" />
+<img width="719" height="619" alt="Screenshot 2025-07-22 115108" src="https://github.com/user-attachments/assets/79383978-54cd-4e00-a905-110bb0bd0e4b" />
+
 
 ### 1. 🛠 Casters / Ramp  
 - Clock In (GUI)
@@ -84,10 +91,13 @@ Refer to the included facility map:
 
 ## 📂 Artifacts Included
 
-- Facility layout image with bin staging locations  
+- Facility layout image with bin staging locations
 - GUI screenshots of Bin Selector pop-up in GSS  
 - Process trees for **Casters** and **Ramp Operators**  
 - Training visuals for roles: Bin Manager, Room Manager, Material Handler  
+<img width="639" height="776" alt="image" src="https://github.com/user-attachments/assets/aadc8804-77aa-427c-aa49-57f65837ddbc" />
+<img width="719" height="619" alt="Screenshot 2025-07-22 115108" src="https://github.com/user-attachments/assets/79383978-54cd-4e00-a905-110bb0bd0e4b" />
+<img width="719" height="619" alt="Screenshot 2025-07-22 115108" src="https://github.com/user-attachments/assets/83dca8a9-41eb-4ca0-9c0b-586056ca1c32" />
 
 ---
 
